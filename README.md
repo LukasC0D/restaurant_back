@@ -37,12 +37,6 @@ http://127.0.0.1:8000/
 
 -   Or press this link => [Localhost:8000](http://127.0.0.1:8000/)
 
-## NOTE!!
-
--This app is active on heroku , so if you want to configure this app on your pc you`ll have to change the URL in restaurant_front part 
-https://github.com/LukasC0D/restaurant_front.git to you local host adress 
-
-
 ## What technologies I used?
 
 Laravel 9
